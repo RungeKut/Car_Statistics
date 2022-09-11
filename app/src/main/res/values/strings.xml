@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Car Statistics</string>
+    <string name="QR_Scanner_name">QR Scanner</string>
     <string name="add">ADD</string>
 </resources>
