@@ -17,7 +17,7 @@
         android:theme="@style/Theme.Car_Statistics">
         <activity
             android:name=".ScannerActivity"
-            android:label="@string/QR_Scanner_name" />
+            android:label="@string/QR_Scanner_name"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
