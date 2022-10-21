@@ -12,8 +12,8 @@ App will run on approximately 98.8% of devices.
 ## Sources
  + [Руководство по языку Kotlin](https://kotlinlang.ru/ "Здесь собираются ресурсы по Котлину и переводится документация.")
  + [Barcode Scanner](https://harshitabambure.medium.com/barcode-scanner-and-qr-code-scanner-android-kotlin-b911b1299f65 "Barcode Scanner and QR code Scanner Android Kotlin")
- + [https://metanit.com/](METANIT.COM - Сайт о программировании)
- + [https://learn.javascript.ru/](Современный учебник JavaScript)
+ + [METANIT.COM - Сайт о программировании](https://metanit.com/)
+ + [Современный учебник JavaScript](https://learn.javascript.ru/)
 #### Contacts
 
 - cergo8@mail.ru
