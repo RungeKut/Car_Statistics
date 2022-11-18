@@ -14,6 +14,7 @@ App will run on approximately 98.8% of devices.
  + [Barcode Scanner](https://harshitabambure.medium.com/barcode-scanner-and-qr-code-scanner-android-kotlin-b911b1299f65 "Barcode Scanner and QR code Scanner Android Kotlin")
  + [METANIT.COM - Сайт о программировании](https://metanit.com/)
  + [Современный учебник JavaScript](https://learn.javascript.ru/)
+ + [Прибор для диагностики Джимни OBDII](https://www.drive2.com/l/9494971/)
 #### Contacts
 
 - cergo8@mail.ru
