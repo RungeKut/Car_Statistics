@@ -15,6 +15,7 @@ App will run on approximately 98.8% of devices.
  + [METANIT.COM - Сайт о программировании](https://metanit.com/)
  + [Современный учебник JavaScript](https://learn.javascript.ru/)
  + [Прибор для диагностики Джимни OBDII](https://www.drive2.com/l/9494971/)
+ + [Работа с OBDII протоколом](https://habr.com/ru/post/223949/)
 #### Contacts
 
 - cergo8@mail.ru
